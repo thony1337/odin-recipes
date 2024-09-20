@@ -1,0 +1,32 @@
+h1 {
+    text-align: center; 
+    margin-top: 20px;
+}
+a {
+    text-decoration: none;
+    color:  hsl(0, 40%, 4%);
+    font-size: 20px;
+    font-weight: bold;
+}
+div {
+    overflow: auto;
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    text-align: left;
+    background-color: rgb(165, 95, 95);
+    height: 1000px;
+    width: 900px;
+}
+ul {
+    list-style-type: none;
+}
+#coxinha {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul li {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
